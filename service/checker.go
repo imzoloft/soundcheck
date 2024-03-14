@@ -71,11 +71,16 @@ func (s *Soundcloud) Checker(email string, proxyString string, goRoutineID int) 
 		s.Checker(email, util.GetRandomProxy(goRoutineID), goRoutineID)
 		return
 	}
+	print("string(body): ", string(body))
 
 	err = s.verifyIfEmailInUse(body)
 	if err != nil {
 		if config.Debug {
 			inout.PrintError("ERROR", err.Error())
+		}
+
+		if strings.Contains(err.Error(), "invalid_identifier") {
+			return
 		}
 
 		if strings.Contains(err.Error(), "Limited") {

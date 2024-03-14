@@ -21,7 +21,7 @@ func (s *Soundcloud) addHeader(req *http.Request, goRoutineID int) {
 func (s *Soundcloud) addQueryParameter(url *url.URL, email string) string {
 	query := url.Query()
 	query.Set("q", email)
-	query.Set("client_id", "")
+	query.Set("client_id", "rVtnkH7kI646kRDwGSONEc7euMBMyJwv")
 
 	return query.Encode()
 }
