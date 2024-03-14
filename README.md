@@ -5,7 +5,7 @@
 ---
 
 <p>
-    <img src="https://cdn.discordapp.com/attachments/1175071108144312374/1181691249942593676/image.png?ex=6581fabc&is=656f85bc&hm=fc5482042abfb656cf7eaf75abcc76cce8e4f4a519e55f7f49c572ac1f323771&" alt="preview" width="400px"/>
+    <img src="https://cdn.discordapp.com/attachments/1065385280393203892/1217912789146800320/image.png?ex=6605c0ac&is=65f34bac&hm=bad3dfaeadee27621487e72b0a8fdb1f64bd9af7d5e1a5c0b49bcac71b55be2f&" alt="preview" width="400px"/>
 </p>
 
 ---

@@ -71,7 +71,6 @@ func (s *Soundcloud) Checker(email string, proxyString string, goRoutineID int) 
 		s.Checker(email, util.GetRandomProxy(goRoutineID), goRoutineID)
 		return
 	}
-	print("string(body): ", string(body))
 
 	err = s.verifyIfEmailInUse(body)
 	if err != nil {

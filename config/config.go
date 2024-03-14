@@ -5,7 +5,7 @@ const (
 	TextGreen = "\x1b[38;5;42m"
 	TextReset = "\x1b[0m"
 	TextBlue  = "\x1b[38;5;27m"
-	Debug     = true
+	Debug     = false
 )
 
 var Proxies []string
