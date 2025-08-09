@@ -5,7 +5,7 @@
 ---
 
 <p>
-    <img src="https://play-lh.googleusercontent.com/DG3HkNtzWv1XvD6x38SI22gbuT9rKEEri3eeNRxrUA7FMiqFuIxEaFCOC5YYZj0elRz9" alt="preview" width="400px"/>
+    <img src="https://play-lh.googleusercontent.com/DG3HkNtzWv1XvD6x38SI22gbuT9rKEEri3eeNRxrUA7FMiqFuIxEaFCOC5YYZj0elRz9" alt="preview" width="250px"/>
 </p>
 
 ---
